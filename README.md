@@ -14,8 +14,8 @@
   </p>
 
   <p>
+    <a href="#Features">Features</a> •
     <a href="#setup">Setup</a> •
-    <a href="#Installation">Installation</a> •
     <a href="#usage">Usage</a> •
     <a href="https://code-notes-example.netlify.com/">Demo</a>
   </p>
@@ -26,7 +26,7 @@
 - Notes can:
   - be written using Markdown (`.md`) or [MDX](https://mdxjs.com/) (`.mdx`)
   - have zero, one or many tags. See an example [here](https://code-notes-example.netlify.app/syntax-highlighting)
-  - have 💯 associated 🍔 emojis 👏
+  - have associated emojis 👏
 - Extra markdown features have also been added. Find out more [here](https://code-notes-example.netlify.app/markdown-features)
 - Note search powered by the super-fast [Flexsearch](https://github.com/nextapps-de/flexsearch)
 
