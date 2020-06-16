@@ -19,6 +19,9 @@
     <a href="#usage">Usage</a> •
     <a href="https://code-notes-example.netlify.com/">Demo</a>
   </p>
+
+<a href="https://www.producthunt.com/posts/code-notes-2?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-code-notes-2" target="_blank" aria-label="View Code Notes on Product Hunt"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=206754&theme=light" alt="Code Notes - A Gatsby theme for publishing code-related notes online | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
 </div>
 
 ## Features
