@@ -16,7 +16,7 @@
     "start": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^2.23.9",
+    "gatsby": "^2.23.11",
     "gatsby-theme-code-notes": "1.10.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
