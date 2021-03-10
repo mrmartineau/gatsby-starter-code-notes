@@ -18,7 +18,7 @@
   "dependencies": {
     "gatsby": "^2.23.18",
     "gatsby-theme-code-notes": "^2.0.0",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-dom": "^16.13.1"
   },
   "repository": {
